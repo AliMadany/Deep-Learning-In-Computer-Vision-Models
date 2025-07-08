@@ -1,10 +1,10 @@
-# 🧠 Deep Learning in Computer Vision Models
+#  Deep Learning in Computer Vision Models
 
 Welcome to the **Deep Learning in Computer Vision Models** repository — a curated collection of classic and modern machine learning models implemented for tasks such as image classification, segmentation, and text classification. This repo showcases practical applications of fundamental algorithms and is designed to serve both educational and experimental purposes.
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -16,7 +16,7 @@ Welcome to the **Deep Learning in Computer Vision Models** repository — a cura
 
 ---
 
-## 🔍 Model Overviews
+##  Model Overviews
 
 ### 1. K-Nearest Neighbors (KNN) – *Image Classification*
 - Feature extraction via pixel/region statistics
@@ -40,7 +40,7 @@ Welcome to the **Deep Learning in Computer Vision Models** repository — a cura
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 All notebooks are self-contained and can be run in **Jupyter Notebook** or **Google Colab**. Each file includes:
 - Dataset loading or generation
@@ -50,7 +50,7 @@ All notebooks are self-contained and can be run in **Jupyter Notebook** or **Goo
 
 ---
 
-## 📚 Prerequisites
+##  Prerequisites
 
 Install the following Python libraries to run all notebooks:
 ```bash
@@ -70,7 +70,7 @@ They are especially valuable for understanding how **agentic AI systems** can in
 
 ---
 
-## 📩 Contact
+##  Contact
 
 Feel free to reach out or connect:
 
